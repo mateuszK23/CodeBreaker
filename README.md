@@ -6,7 +6,7 @@ The defaults folder contains starting key values for ciphers.
 Root folder contains a bunch of example text files with encrypted 'Hello World' message, and plainText ( just 'Hello World' ).
 To use your own file put it in the root folder(CodeBreaker) alongside src, defaults etc.
 
-To run the program, extract contents of Release.zip file, and use 'java -jar CodeBreaker.jar' on the cmd from the Release directory. 
+To run the program, extract contents of Release.zip file, and use a command 'java -jar CodeBreaker.jar' on the cmd from the Release directory. 
 
 Do not delete text files, otherwise it won't work.
 
